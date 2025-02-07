@@ -1,6 +1,6 @@
 Hi, I’m Igor Sikora @notEloiir
 
-- I'm interested in ML, NLP, and chatbots specifically
+- I'm interested in ML, NLP and chatbots specifically (before they were cool, real), architecture research, and many more
 - Pronouns: any
 - Fun fact: I use Arch btw
 
